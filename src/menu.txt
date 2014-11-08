@@ -1,0 +1,7 @@
+kurczak 6.5
+kasza 2
+ziemniaki 3
+frytki 4.2
+surowka 2
+zupa 5
+lody 6
