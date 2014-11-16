@@ -1,8 +1,8 @@
 from math import sqrt
 class zespolona:
-    def __init__(self, czrzeczywista, czurojona):
-        self.r = czrzeczywista
-        self.i = czurojona
+    def __init__(self, r, i):
+        self.r = r
+        self.i = i
     def get_r(self):
         return self.__r
     def set_r(self,r):
